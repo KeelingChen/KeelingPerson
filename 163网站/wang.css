@@ -1,0 +1,158 @@
+.contant {
+    background-color: #F1F1F1;
+}
+
+.head {
+    border: 1px solid red;
+
+}
+
+.top {
+    width: 1000px;
+    margin: 0px auto;
+    border: 1px solid red;
+}
+
+.top-left {
+    height: 37px;
+    border: 1px solid red;
+
+    float: left;
+    display: inline-block;
+}
+
+.top-main {
+    height: 25px;
+    border: 1px solid red;
+    display: inline-block;
+    background: url(img/text.png) no-repeat;
+}
+
+.top-right {
+    display: inline-block;
+    float: right;
+    border: 1px solid red;
+    margin-top: 8px;
+}
+
+.top-right li {
+    display: inline-block;
+}
+
+.top-right li>a {
+    color: #174B9F;
+    font-size: 15px;
+}
+
+.top-right a:hover {
+    color: red;
+}
+
+.main {
+    width: 954px;
+    height: 543px;
+    background-color: white;
+    border: 1px solid red;
+    margin: 0px auto;
+}
+
+.main-top {
+    width: 953px;
+    height: 46px;
+    background: url(./img/tit_bg2.jpg) repeat;
+    border: 1px solid red;
+}
+
+.mt-1 {
+    height: 46px;
+    display: inline-block;
+    float: left;
+    border: 1px solid red;
+}
+
+.mt-2 {
+    border: 1px solid red;
+    display: inline-block;
+    margin-left: 30px;
+    color: white;
+    margin-top: 10px;
+}
+
+.main-in {
+    border: 1px solid red;
+    margin: 0px auto;
+
+}
+
+.in {
+    width: 649px;
+    height: 447px;
+    margin: 0px auto;
+    border: 1px solid red;
+}
+
+.form-top {
+    width: 340px;
+    margin: 0px auto;
+    float: right;
+}
+
+.ftleft {
+    display: inline-block;
+
+}
+
+.ftright {
+    display: inline-block;
+    float: right;
+}
+
+.biaonei {
+    width: 340px;
+    margin: 0px auto;
+    float: right;
+    font-size: 15px;
+}
+
+.yzm {
+    display: inline-block;
+}
+
+.yz {
+    display: inline-block;
+}
+
+.anniu {
+    width: 103px;
+    height: 37px;
+    margin: 0px auto;
+}
+
+.foot-main {
+    width: 573px;
+    height: 37px;
+    line-height: 37px;
+    margin: 0px auto;
+}
+
+.foot-z {
+    display: inline-block;
+    float: left;
+}
+
+.foot-z li {
+    display: inline-block;
+}
+
+
+.foot-y {
+    display: inline-block;
+
+}
+
+.kuang {
+    width: 399px;
+    height: 176px;
+    margin: 0px auto;
+
+}

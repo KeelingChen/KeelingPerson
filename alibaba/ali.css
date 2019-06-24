@@ -1,0 +1,64 @@
+.ctn{    
+    background: white;
+}
+
+.top{
+    width: 1000px;
+    text-align: center;
+}
+
+.logo{
+    display: inline-block;
+    width: 198px;
+    height: 76px;
+    background: url(img/logo.jpg) center no-repeat;
+}
+
+.down{
+    
+
+    background: url(img/body_bg.jpg) repeat;
+}
+
+.daohang{
+    width: 1000px;
+
+    margin: 0px auto;
+}
+
+
+.daohang-left{
+    display: inline-block;
+    float: left;
+}
+
+.daohang-left li{
+    display: inline-block;
+}
+
+.b1 a{
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.daohang-right{
+    display: inline-block;
+    float: right;
+    margin-right: 260px;
+}
+
+.daohang-right li{
+    display: inline-block;
+}
+
+.b2 a{
+    color: white;
+}
+
+
+
+a:hover{
+    background: white;
+    color: rgb(250, 146, 10);
+}
