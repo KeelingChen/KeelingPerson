@@ -1,0 +1,206 @@
+body {
+    background: #fafafa;
+}
+
+.header {
+    background: #fff;
+    padding-top: 20px;
+    border-bottom: #ccc solid 1px;
+    padding-bottom: 10px;
+}
+
+
+.mg {
+    width: 1000px;
+    margin: 0px auto;
+
+}
+
+.hm-dv1 {
+    float: left;
+    width: 184px;
+    height: 70px;
+    background: url(images/img03.png) center no-repeat;
+}
+
+.hm-dv2 {
+    float: right;
+
+}
+
+
+.hd2-ul>li {
+    float: left;
+    padding: 0px 5px;
+}
+
+.hm-tip {
+    color: gray;
+}
+
+.link-login {
+    color: #1170cf;
+}
+
+.hd-sp2 {
+    color: #6b6060;
+}
+
+.help-div>span {
+
+    float: left;
+}
+
+.hd-sp1 {
+    width: 18px;
+    height: 18px;
+    background: url(./images/img02.png) no-repeat -344px 0px;
+}
+
+.hd-sp3 {
+    width: 18px;
+    height: 18px;
+    background: url(./images/img02.png) no-repeat -344px -28px;
+}
+
+.main>.mg-2>div {
+    float: left;
+
+}
+
+.m-dv2 {
+    width: 500px;
+    margin-left: 30px;
+}
+
+.mdv2-dv1 {
+    height: 40px;
+    line-height: 40px;
+
+    position: relative;
+}
+
+.mdv2-dv2 {
+    background: #fff;
+    height: 420px;
+
+}
+
+.mdv2-dv1 {
+    text-align: center;
+}
+
+.mdv2dv-1 {
+    display: inline-block;
+
+}
+
+
+.mdv2dv-1>span {
+    float: left;
+    height: 28px;
+    line-height: 30px;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    color: #666666;
+}
+
+.mdv2dv-sp1 {
+    width: 30px;
+    height: 28px;
+    background: url(images/img02.png) no-repeat -330px -47px;
+    display: inline-block;
+
+}
+
+.mdv2dv-link1 {
+    position: absolute;
+    right: 0px;
+    top: 8px;
+    color: #1170cf;
+    font-size: 12px;
+
+}
+
+.mddv2-fm {
+
+    width: 350px;
+    margin: 0px auto;
+}
+
+.fm-cell {
+    width: 100%;
+    height: 55px;
+    border: 1px solid #ccc;
+    position: relative;
+}
+
+.fm-cell .fm-ipt {
+    width: 100%;
+    height: 100%;
+    margin-left: 46px;
+    display: block;
+    border: none;
+}
+
+.fm-cell>i {
+    position: absolute;
+    display: block;
+    width: 25px;
+    height: 25px;
+
+    z-index: 10;
+    top: 12px;
+    left: 10px;
+}
+
+.fm-userlogo {
+    background: url(images/img02.png) no-repeat -47px 3px;
+}
+
+.fm-pwdlogo {
+    background: url(images/img02.png) no-repeat -147px 2px;
+}
+
+.fm-cell2 {
+
+    height: 40px;
+    line-height: 40px;
+}
+
+.fc-dv1 {
+    float: left;
+    cursor: pointer;
+}
+
+.fc-dv1:hover .md2-cb1 {
+    background: url(images/img02.png) no-repeat -346px -300px;
+}
+
+.fc-dv1:hover .md2-cb2 {
+    color: red;
+}
+
+.fc-dv1>span {
+    float: left;
+}
+
+.md2-cb1 {
+    width: 15px;
+    height: 15px;
+    background: url(images/img02.png) no-repeat -346px -270px;
+    margin-top: 13px;
+    margin-right: 3px;
+}
+
+.fc-dv2 {
+    float: right;
+}
+
+.login-btn {
+    width: 100%;
+    height: 40px;
+    background: url(images/img02.png) no-repeat 0px -89px;
+    border: none;
+}
